@@ -1,7 +1,8 @@
 # Cloud Academy Google Cloud Platform (GCP) Fundamentals
 
 Repo containing Terraform used to manage various GCP services that were 
-explored as part of Cloud Academy's GCP Fundamentals course.
+explored as part of 
+[Cloud Academy's GCP Fundamentals](https://cloudacademy.com/google/google-cloud-platform-fundamentals-course/) course.
 
 ## Setup
 - Get a [Google Cloud account](https://cloud.google.com). Free trial with $300 credit.
